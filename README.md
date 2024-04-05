@@ -6,6 +6,8 @@ Currently active on Arweave AO and the EVM.
 
 Long term particularly interested in DeSci and ZK.
 
+🫶 Nostr - The likes dissapear, but the zaps stay forever
+
 **Auditing:**
 
 - [Code4Rena](https://code4rena.com/@BugzyVonBuggernaut) and [Private](https://github.com/cryptoTozer/audits)
