@@ -26,5 +26,6 @@ Long term particularly interested in DeSci and ZK.
 **ZK:**
 
 - Working through the [Moon Math Manual](https://github.com/LeastAuthority/moonmath-manual)!
+  - [My notes and solutions](https://github.com/cryptoTozer/moonmath-manual-study)
 
 Please reach out on [Twitter](https://twitter.com/cryptoTozer) or [Telegram](https://t.me/iantozer)!
