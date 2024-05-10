@@ -12,10 +12,12 @@ Very interested in DeSci and ZK.
 
 - [Code4Rena](https://code4rena.com/@BugzyVonBuggernaut) and [Private](https://github.com/cryptoTozer/audits)
 
+**Code Maps:**
+
+- [Smart Contract Code Maps](https://github.com/cryptoTozer/cryptoTozer.github.io)
+
 **Open Source & Public Work:**
 
-- [Smart Contract Code Maps (Rust)](https://github.com/cryptoTozer/smart-contract-code-maps-rs)
-- [Smart Contract Code Maps (JS - deprecated)](https://github.com/cryptoTozer/smart-contract-code-maps)
 - Building on AO: [Pressure Cookin'](https://github.com/cryptoTozer/ao-pressure-cookin), [Mandelbrot Tests](https://github.com/cryptoTozer/ao-react-mandelbrot) and more!
 - [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
 
