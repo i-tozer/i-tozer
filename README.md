@@ -4,7 +4,7 @@ I audit smart contract code and do R&D.
 
 Currently active on Arweave AO and the EVM.
 
-Long term particularly interested in DeSci and ZK.
+Very interested in DeSci and ZK.
 
 🫶 Nostr - The likes dissapear, but the zaps stay forever
 
