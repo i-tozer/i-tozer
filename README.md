@@ -14,7 +14,7 @@ Very interested in DeSci and ZK.
 
 **Code Maps:**
 
-- [Smart Contract Code Maps](https://github.com/cryptoTozer/cryptoTozer.github.io)
+- [Smart Contract Code Maps](https://github.com/solmaps/solmaps.github.io/)
 
 **Open Source & Public Work:**
 
