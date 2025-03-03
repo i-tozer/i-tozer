@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ian Tozer!
 
-I deliver high value through full-stack development & smart contract auditing.
+I deliver value through full-stack development & smart contract auditing.
 
 Currently working with Golang, Solidity, JavaScript and Rust across EVM and Arweave AO ecosystems.
 
