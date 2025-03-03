@@ -1,34 +1,28 @@
 ## Hi there 👋, I'm Ian Tozer!
 
-I audit smart contract code and do R&D.
+I deliver high value through full-stack development & smart contract auditing.
 
-Currently active on Arweave AO and the EVM.
+Currently working with Golang, Solidity, JavaScript and Rust across EVM and Arweave AO ecosystems.
 
-Very interested in DeSci and ZK.
+My approach: Review → Simplify → Optimize → Iterate → Automate = 3-10x faster delivery
 
-🫶 Nostr - The likes dissapear, but the zaps stay forever
+### Smart Contract Security:
 
-**Auditing:**
+- [Code4Rena](https://code4rena.com/@BugzyVonBuggernaut) and [Private Audits](https://github.com/i-tozer/audits)
+- Specializing in DeFi, DAO Governance, and Sports Betting protocols
 
-- [Code4Rena](https://code4rena.com/@BugzyVonBuggernaut) and [Private](https://github.com/cryptoTozer/audits)
+### Domain Expertise:
 
-**Code Maps:**
+- **DeFi & DAO:** Delivering optimized governance and financial solutions
+- **Code Visualization:** [Smart Contract Code Maps](https://github.com/solmaps/solmaps.github.io/)
+- **Web3 Analytics:** [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
 
-- [Smart Contract Code Maps](https://github.com/solmaps/solmaps.github.io/)
+### Current R&D:
 
-**Open Source & Public Work:**
+- **Arweave AO:** [Pressure Cookin'](https://github.com/i-tozer/ao-pressure-cookin), [Mandelbrot Tests](https://github.com/i-tozer/ao-react-mandelbrot)
+- **DeSci:** [AORTA](https://github.com/i-tozer/aorta) - [Why you oughta love Aorta!](https://ar-io.dev/Rh8NJIlg1l72smPP0_ngdH5E54QN9bpxFoyQJhw_Ct4)
+- **ZK:** Working through the [Moon Math Manual](https://github.com/LeastAuthority/moonmath-manual) - [My notes and solutions](https://github.com/i-tozer/moonmath-manual-study)
 
-- Building on AO: [Pressure Cookin'](https://github.com/cryptoTozer/ao-pressure-cookin), [Mandelbrot Tests](https://github.com/cryptoTozer/ao-react-mandelbrot) and more!
-- [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
+🧠 BSc in Psychology, Level 2 CFA, and enthusiast of mental models & memory palaces
 
-**DeSci:**
-
-- Establishing a DeSci presence on AO: [AORTA](https://github.com/cryptoTozer/aorta)
-  - [Why you oughta love Aorta!](https://ar-io.dev/Rh8NJIlg1l72smPP0_ngdH5E54QN9bpxFoyQJhw_Ct4)
-
-**ZK:**
-
-- Working through the [Moon Math Manual](https://github.com/LeastAuthority/moonmath-manual)!
-  - [My notes and solutions](https://github.com/cryptoTozer/moonmath-manual-study)
-
-Please reach out on [Twitter](https://twitter.com/cryptoTozer) or [Telegram](https://t.me/iantozer)!
+Let's connect on [Twitter](https://twitter.com/i_tozer) or [Telegram](https://t.me/iantozer)!
