@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Ian Tozer!
 
-I seek to deliver value through full-stack development, writing & smart contract auditing.
+I deliver value through full-stack development, writing & smart contract auditing.
 
 Currently working with Golang, Solidity, JavaScript and Rust across EVM and SOL ecosystems.
 
-I've found [Elon Musk's five step process](https://www.youtube.com/watch?v=hhuaVsOAMFc) to be extremely effective in delivering high-value software in considerably shorter time-frames, and it's my method of working:
+My approach to development follows [Elon Musk's 5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc), which has helped me deliver high-value software efficiently:
 
 1) Evaluate, Simplify, and Refine Requirements
 2) Delete Parts or Process Parts
