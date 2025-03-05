@@ -20,6 +20,10 @@ My approach to development follows [Elon Musk's 5-step process](https://www.yout
 
 - [Code4Rena](https://code4rena.com/@BugzyVonBuggernaut) and [Private Audits](https://github.com/i-tozer/audits)
 
+### Writing:
+
+- [Blog](https://substack.com/@iantozer)
+
 ### Domain Expertise:
 
 - **DeFi & DAO:** Delivering optimized governance and financial solutions
