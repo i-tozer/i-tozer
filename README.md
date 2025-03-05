@@ -4,7 +4,7 @@ I deliver value through full-stack development, writing & smart contract auditin
 
 Currently working with Golang, Solidity, JavaScript and Rust across EVM and SOL ecosystems.
 
-My approach to development follows [Elon Musk's 5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc), which has helped me deliver high-value software efficiently:
+My approach to development follows [Elon Musk's 5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc), which helps me to deliver high-value software efficiently:
 
 1) Evaluate, Simplify, and Refine Requirements
 2) Delete Parts or Process Parts
