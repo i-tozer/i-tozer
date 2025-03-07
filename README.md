@@ -61,7 +61,7 @@ Busy period of undertaking a [public]((https://code4rena.com/@BugzyVonBuggernaut
 
 Mapping out solidity code complexity with:
 
-a) force-directed graph layouts
+a) Force-directed graph layouts
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 20px;">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_1.jpg" alt="Solmaps Example 1" width="400">
@@ -70,4 +70,7 @@ a) force-directed graph layouts
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_4.jpg" alt="Solmaps Example 4" width="450">
 </div>
 
-b) static maps
+b) Static maps
+
+<img src="https://github.com/i-tozer/i-tozer/blob/main/assets/velvet-capital.png" alt="Velvet Capital" width="800" height="196">
+
