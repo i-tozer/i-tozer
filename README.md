@@ -35,7 +35,7 @@ To deliver high value projects efficiently, I follow a [5-step process](https://
 
 🧠 BSc in Psychology, Level 2 CFA, and enthusiast of mental models & memory palaces
 
-Let's connect on [Twitter](https://twitter.com/i_tozer) or [Telegram](https://t.me/iantozer)!
+Let's connect on [X](https://x.com/i_tozer) or [Telegram](https://t.me/iantozer)!
 
 ### Selected Works
 
