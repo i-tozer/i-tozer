@@ -50,7 +50,7 @@ Engineered a sports arbitrage bot in Golang with PostgreSQL, Grafana, and Loki. 
 
 #### Smart Contract Auditing
 
-Busy period of undertaking a [public]((https://code4rena.com/@BugzyVonBuggernaut)) and [private]((https://github.com/i-tozer/audits)) audits - including a top 5 finish on Olas.
+Busy period undertaking [public]((https://code4rena.com/@BugzyVonBuggernaut)) and [private]((https://github.com/i-tozer/audits)) audits - including a top 5 finish on Olas.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/code4rena.png" alt="Code4rena Audit" width="400">
@@ -59,9 +59,9 @@ Busy period of undertaking a [public]((https://code4rena.com/@BugzyVonBuggernaut
 
 #### Solmaps
 
-Mapping out solidity code complexity with:
+Mapping out solidity code complexity with...
 
-a) Force-directed graph layouts
+##### (a) Force-directed graph layouts
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 20px;">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_1.jpg" alt="Solmaps Example 1" width="400">
@@ -70,7 +70,24 @@ a) Force-directed graph layouts
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_4.jpg" alt="Solmaps Example 4" width="450">
 </div>
 
-b) Static maps
+##### (b) Static maps
 
 <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/velvet-capital.png" alt="Velvet Capital" width="800" height="630">
+
+#### Web3Geography (Solana Foundation Funded Project)
+
+Web3Geography used job data to explore the web3 market - identifying trends related to job location, company size, required skills, and more.
+
+##### Grafana
+
+<img src="https://github.com/i-tozer/i-tozer/blob/main/assets/web3_geography_1.jpg" alt="Web3Geography Grafana 1" width="800" height="281">
+
+##### Report
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 20px;">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/web3_geography_2.png" alt="Web3Geography Example 1" width="400">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/web3_geography_3.png" alt="Web3Geography Example 2" width="400">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/web3_geography_4.png" alt="Web3Geography Example 3" width="400">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/web3_geography_5.png" alt="Web3Geography Example 4" width="400">
+</div>
 
