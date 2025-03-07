@@ -17,7 +17,7 @@ To deliver efficiently, I follow a [5-step process](https://www.youtube.com/watc
 - **Sports Arbitrage Bots:** Developing high-performance trading systems that identify and capitalize on cross-platform odds differentials in real-time
 - **DeFi and DAO Governance:** Collaborating on exceptional decentralized financial and governance infrastructure
 - **Code Visualization:** Creating static and dynamic code maps using Rust-based force-directed graph algorithms to visualize complex codebases
-- **Web3 Analytics:** [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
+- **Web3 Analytics (deprecated):** [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
 
 ### Smart Contract Security:
 
