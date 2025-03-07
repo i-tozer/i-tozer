@@ -91,3 +91,11 @@ Web3Geography used job data to explore the web3 market - identifying trends rela
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/web3_geography_5.png" alt="Web3Geography Example 4" width="400">
 </div>
 
+#### Aave Governance Rebrand (Aave Grants Project)
+
+[View PDF Sample](https://github.com/i-tozer/i-tozer/blob/main/assets/aave_proposal_pages.pdf)
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 20px;">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/aave_1.png" alt="Aave Example 1" width="400">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/aave_2.png" alt="Aave Example 2" width="400">
+</div>
