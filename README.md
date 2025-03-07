@@ -14,7 +14,7 @@ To deliver high value projects efficiently, I follow a [5-step process](https://
 ### Development
 
 - **Portfolio:** Selected works below
-- **Sports Arbitrage Bots:** Developing high-performance trading systems that identify and capitalize on cross-platform odd differentials in real-time
+- **Sports Arbitrage Bots:** Developing high-performance trading systems that identify and capitalize on cross-platform odds differentials in real-time
 - **DeFi and DAO Governance:** Collaborating on exceptional decentralized financial and governance infrastructure
 - **Code Visualization:** Creating static and dynamic code maps using Rust-based force-directed graph algorithms to visualize complex codebases
 - **Web3 Analytics:** [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
