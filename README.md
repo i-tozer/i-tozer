@@ -55,7 +55,7 @@ Busy period undertaking [public](https://code4rena.com/@BugzyVonBuggernaut) and 
 
 #### Solmaps
 
-Mapping out solidity code complexity with
+Mapping out solidity code complexity
 
 ##### (a) Force-directed graph layouts
 
