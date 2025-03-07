@@ -1,11 +1,10 @@
 ## Hi there 👋, I'm Ian Tozer!
 
-I deliver value through full-stack development, writing & smart contract auditing.
+I aim to deliver high value through full-stack development, writing & smart contract auditing.
 
-Currently working with Golang, Solidity, JavaScript and Rust across EVM and SOL ecosystems.
+Currently working with Golang, Solidity, JavaScript and Rust, specialising across EVM and SOL ecosystems.
 
-My approach to development is in following this [5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc), which helps me to deliver high-value software efficiently:
-
+To deliver high value projects efficiently, I follow a [5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc):
 1) Evaluate, Simplify, and Refine Requirements
 2) Delete Parts or Process Parts
 3) Simplify or Optimize
@@ -15,6 +14,7 @@ My approach to development is in following this [5-step process](https://www.you
 ### Development
 
 - Specializing in DeFi, DAO Governance, and Sports Betting protocols
+- Selected works below
 
 ### Smart Contract Security:
 
@@ -39,3 +39,11 @@ My approach to development is in following this [5-step process](https://www.you
 🧠 BSc in Psychology, Level 2 CFA, and enthusiast of mental models & memory palaces
 
 Let's connect on [Twitter](https://twitter.com/i_tozer) or [Telegram](https://t.me/iantozer)!
+
+### Selected Works
+
+#### Sports Arbitrage Bot (2024-2025)
+
+Engineered a sports arbitrage bot in Golang with PostgreSQL, Grafana, and Loki. Rebuilt in a second iteration that achieved 10x faster performance with 90% less code while adding IP floating and nanosecond benchmarking for optimal efficiency in competitive markets.
+
+
