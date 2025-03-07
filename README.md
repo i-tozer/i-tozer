@@ -13,8 +13,11 @@ To deliver high value projects efficiently, I follow a [5-step process](https://
 
 ### Development
 
-- Specializing in DeFi, DAO Governance, and Sports Betting protocols
-- Selected works below
+- **Portfolio:** Selected works below
+- **Sports Arbitrage Bots:** Developing high-performance trading systems that identify and capitalize on cross-platform odd differentials in real-time
+- **DeFi and DAO Governance:** Collaborating on exceptional decentralized financial and governance infrastructure
+- **Code Visualization:** Creating static and dynamic code maps using Rust-based force-directed graph algorithms to visualize complex codebases
+- **Web3 Analytics:** [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
 
 ### Smart Contract Security:
 
@@ -23,12 +26,6 @@ To deliver high value projects efficiently, I follow a [5-step process](https://
 ### Writing:
 
 - [Blog](https://substack.com/@iantozer)
-
-### Domain Expertise:
-
-- **DeFi & DAO:** Delivering optimized governance and financial solutions
-- **Code Visualization:** [Smart Contract Code Maps](https://github.com/solmaps/solmaps.github.io/)
-- **Web3 Analytics:** [Web3 Geography](https://web3geography.grafana.net/public-dashboards/5f9271ad0b694217894daef0af8a285c?orgId=1)
 
 ### Public R&D:
 
@@ -50,7 +47,7 @@ Engineered a sports arbitrage bot in Golang with PostgreSQL, Grafana, and Loki. 
 
 #### Smart Contract Auditing
 
-Busy period undertaking [public]((https://code4rena.com/@BugzyVonBuggernaut)) and [private]((https://github.com/i-tozer/audits)) audits - including a top 5 finish on Olas.
+Busy period undertaking [public](https://code4rena.com/@BugzyVonBuggernaut) and [private](https://github.com/i-tozer/audits) audits - including a top 5 finish on Olas.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/code4rena.png" alt="Code4rena Audit" width="400">
@@ -59,7 +56,7 @@ Busy period undertaking [public]((https://code4rena.com/@BugzyVonBuggernaut)) an
 
 #### Solmaps
 
-Mapping out solidity code complexity with...
+Mapping out solidity code complexity with
 
 ##### (a) Force-directed graph layouts
 
@@ -99,3 +96,14 @@ Web3Geography used job data to explore the web3 market - identifying trends rela
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/aave_1.png" alt="Aave Example 1" width="400">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/aave_2.png" alt="Aave Example 2" width="400">
 </div>
+
+#### Stakehodler
+
+A DAO Governance Dashboard
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/stakehodler_1.jpg" alt="Stakehodler 1" style="height: 400px; width: auto;">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/stakehodler_2.jpg" alt="Stakehodler 2" style="height: 400px; width: auto;">
+</div>
+
+
