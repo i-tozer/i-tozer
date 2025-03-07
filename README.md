@@ -42,19 +42,32 @@ Let's connect on [Twitter](https://twitter.com/i_tozer) or [Telegram](https://t.
 
 ### Selected Works
 
-#### Sports Arbitrage Bot (2024-2025)
+#### Sports Arbitrage Bot
 
 Engineered a sports arbitrage bot in Golang with PostgreSQL, Grafana, and Loki. Rebuilt in a second iteration that achieved 10x faster performance with 90% less code while adding IP floating and nanosecond benchmarking for optimal efficiency in competitive markets.
 
 <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/odds_spread.png" alt="Sports Arbitrage Odds Visualization" width="800" height="196">
 
-#### Smart Contract Auditing (2023-2024)
+#### Smart Contract Auditing
 
-Busy period of undertaking a [public]((https://code4rena.com/@BugzyVonBuggernaut)) and [private]((https://github.com/i-tozer/audits)) audits - including top 5 finish on Olas.
+Busy period of undertaking a [public]((https://code4rena.com/@BugzyVonBuggernaut)) and [private]((https://github.com/i-tozer/audits)) audits - including a top 5 finish on Olas.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/code4rena.png" alt="Code4rena Audit" width="400">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/code4rena_jan.png" alt="Code4rena January Results" width="600">
 </div>
 
+#### Solmaps
 
+Mapping out solidity code complexity with:
+
+a) force-directed graph layouts
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 20px;">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_1.jpg" alt="Solmaps Example 1" width="400">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_2.jpg" alt="Solmaps Example 2" width="400">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_3.jpg" alt="Solmaps Example 3" width="400">
+  <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/solmaps_4.jpg" alt="Solmaps Example 4" width="450">
+</div>
+
+b) static maps
