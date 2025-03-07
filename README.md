@@ -72,5 +72,5 @@ a) Force-directed graph layouts
 
 b) Static maps
 
-<img src="https://github.com/i-tozer/i-tozer/blob/main/assets/velvet-capital.png" alt="Velvet Capital" width="800" height="196">
+<img src="https://github.com/i-tozer/i-tozer/blob/main/assets/velvet-capital.png" alt="Velvet Capital" width="800" height="630">
 
