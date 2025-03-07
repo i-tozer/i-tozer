@@ -46,7 +46,7 @@ Let's connect on [Twitter](https://twitter.com/i_tozer) or [Telegram](https://t.
 
 Engineered a sports arbitrage bot in Golang with PostgreSQL, Grafana, and Loki. Rebuilt in a second iteration that achieved 10x faster performance with 90% less code while adding IP floating and nanosecond benchmarking for optimal efficiency in competitive markets.
 
-<img src="https://github.com/i-tozer/i-tozer/blob/main/assets/odds_spread.jpg" alt="Sports Arbitrage Odds Visualization" width="800" height="196">
+<img src="https://github.com/i-tozer/i-tozer/blob/main/assets/odds_spread.png" alt="Sports Arbitrage Odds Visualization" width="800" height="196">
 
 #### Smart Contract Auditing (2023-2024)
 
