@@ -98,7 +98,7 @@ Web3Geography used job data to explore the web3 market - identifying trends rela
 
 #### Stakehodler
 
-A DAO Governance Dashboard
+A DAO Governance Platform
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/stakehodler_1.jpg" alt="Stakehodler 1" style="height: 400px; width: auto;">
