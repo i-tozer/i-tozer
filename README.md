@@ -46,12 +46,55 @@ Engineered a sports arbitrage bot in Golang with PostgreSQL, Grafana, and Loki. 
 
 #### Smart Contract Auditing
 
+##### Audits
+
 Busy period undertaking [public](https://code4rena.com/@BugzyVonBuggernaut) and [private](https://github.com/i-tozer/audits) audits - including a top 5 finish on Olas.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/code4rena.png" alt="Code4rena Audit" width="400">
   <img src="https://github.com/i-tozer/i-tozer/blob/main/assets/code4rena_jan.png" alt="Code4rena January Results" width="600">
 </div>
+
+##### Education
+
+Educational materials to help others understand complex blockchain and DeFi concepts:
+
+<details>
+  <summary><strong>Automated Market Makers - Pricing</strong></summary>
+  <div align="center">
+    <a href="https://github.com/i-tozer/research/blob/main/uniswap_v3/Automated%20Market%20Makers%20-%20Pricing.png">
+      <img src="https://github.com/i-tozer/research/blob/main/uniswap_v3/Automated%20Market%20Makers%20-%20Pricing.png" alt="Automated Market Makers - Pricing" width="450">
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><strong>Automated Market Makers - Primer</strong></summary>
+  <div align="center">
+    <a href="https://github.com/i-tozer/research/blob/main/uniswap_v3/Automated%20Market%20Makers%20-%20Primer%20.png">
+      <img src="https://github.com/i-tozer/research/blob/main/uniswap_v3/Automated%20Market%20Makers%20-%20Primer%20.png" alt="Automated Market Makers - Primer" width="450">
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><strong>How Uniswap V3 Stores Price Data</strong></summary>
+  <div align="center">
+    <a href="https://github.com/i-tozer/research/blob/main/uniswap_v3/How%20Uniswap%20V3%20Stores%20Price%20Data.png">
+      <img src="https://github.com/i-tozer/research/blob/main/uniswap_v3/How%20Uniswap%20V3%20Stores%20Price%20Data.png" alt="How Uniswap V3 Stores Price Data" width="450">
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><strong>What goes into an Ethereum Storage Slot</strong></summary>
+  <div align="center">
+    <a href="https://github.com/i-tozer/research/blob/main/uniswap_v3/What%20goes%20into%20an%20Ethereum%20Storage%20Slot.png">
+      <img src="https://github.com/i-tozer/research/blob/main/uniswap_v3/What%20goes%20into%20an%20Ethereum%20Storage%20Slot.png" alt="What goes into an Ethereum Storage Slot" width="450">
+    </a>
+  </div>
+</details>
+
 
 #### Solmaps
 
