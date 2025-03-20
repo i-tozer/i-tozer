@@ -26,6 +26,9 @@ To deliver efficiently, I follow a [5-step process](https://www.youtube.com/watc
 
 - [Blog](https://substack.com/@iantozer)
 
+### Public Goods:
+- [**Substack/PDF to Kindle**](https://github.com/i-tozer/substack-to-kindle)
+
 ### Public R&D:
 
 - **Arweave AO:** [Pressure Cookin'](https://github.com/i-tozer/ao-pressure-cookin), [Mandelbrot Tests](https://github.com/i-tozer/ao-react-mandelbrot)
