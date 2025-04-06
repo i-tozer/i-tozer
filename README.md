@@ -28,7 +28,7 @@ Very fond of the following this [5-step process](https://www.youtube.com/watch?v
 
 ### Public Goods:
 - [**Substack/PDF to Kindle**](https://github.com/i-tozer/substack-to-kindle)
-- [**Financial Advisor and Fund Fee Impact Calculator**](https://celadon-phoenix-a0b78e.netlify.app/)
+- [**Financial Advisor and Fund Fee Impact Calculator**](https://candid-capybara-0807a2.netlify.app/)
 
 ### Public R&D:
 
