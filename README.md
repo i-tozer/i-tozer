@@ -4,7 +4,7 @@ I aim to deliver high value through full-stack development, writing & smart cont
 
 Currently working with Golang, Solidity, JavaScript and Rust, specialising across EVM and SOL ecosystems.
 
-Very fond of the following this [5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc) to deliver efficiently:
+Fond of this [5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc) approach:
 1) Evaluate, Simplify, and Refine Requirements
 2) Delete Parts or Process Parts
 3) Simplify or Optimize
