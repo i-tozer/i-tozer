@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Ian Tozer!
+## Hi 👋, I'm Ian Tozer!
 
-I deliver value through full-stack development, writing & smart contract auditing.
+I'm a full-stack developer & smart contract auditor.
 
-Currently working with Golang, Solidity, JavaScript and Rust, specialising across EVM and SOL ecosystems.
+I program in Golang, Solidity, Rust, and JavaScript, and occasionally in Python.
 
-Fond of this [5-step process](https://www.youtube.com/watch?v=hhuaVsOAMFc) approach:
+In terms of implementation, I like to use the following [5-step](https://www.youtube.com/watch?v=hhuaVsOAMFc) approach:
 1) Evaluate, Simplify, and Refine Requirements
 2) Delete Parts or Process Parts
 3) Simplify or Optimize
