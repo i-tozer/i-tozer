@@ -2,7 +2,7 @@
 
 I'm a full-stack developer & smart contract auditor.
 
-I program in Golang, Solidity, Rust, JavaScript, and occasionally in Python.
+I program in Solidity, Python, JavaScript, Rust, and Golang.
 
 I like to use the following [5-step](https://www.youtube.com/watch?v=hhuaVsOAMFc) approach:
 1) Evaluate, Simplify, and Refine Requirements
