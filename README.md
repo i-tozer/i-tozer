@@ -13,7 +13,6 @@ Aspiring mathematician.
 ### Socials
 - [X](https://x.com/i_tozer)
 - [SubStack](https://substack.com/@iantozer)
-- etc.
 
 ### Audits
 - [Aragon | VE Governance | Smart Contract Review | Boundary Conditions](link) 
