@@ -14,6 +14,8 @@ Aspiring mathematician.
 - [X](https://x.com/i_tozer)
 - [SubStack](https://substack.com/@iantozer)
 
+(links soon)
+
 ### Audits
 - [Aragon | VE Governance | Smart Contract Review | Boundary Conditions](link) 
 - [Aragon | VE Governance | Smart Contract Audit #2](link) 
