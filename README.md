@@ -2,7 +2,7 @@
 
 **Web3 Security & Full Stack Development**
 
-### Brands I have worked with
+### Brands & Projects I have worked with
 Aragon, Berryblock, Coral2, Solana Foundation, Eleventh House Solutions, Aave Grants DAO, ScaBench, Authoritas
 
 ### Programming Languages
@@ -21,7 +21,7 @@ Aspiring mathematician.
 - [BerryBlock | Swaptor | Smart Contract Audit](https://gist.github.com/i-tozer/7efd4c174c0853f1ef19f987ca387741) (1H/1M/1L) 
 - [Coral.li | ERC1155 | Smart Contract Audit](link) - Private
 
-### *Competitions
+### Competitions
 - [Olas](https://code4rena.com/audits/2023-12-olas) (1H/1M) | 4th Place
 
 #### Development
@@ -30,3 +30,6 @@ Aspiring mathematician.
 - [Solana Foundation | Grant](link) | Web3 Geography | Details
 - [Aave Grants DAO | Grant](link) | UX Redesign | Details
 - [Stakehodler](link) | Founder | DAO Governance Platform | Details
+
+### Personal
+Coming soon.
