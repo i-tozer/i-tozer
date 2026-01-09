@@ -14,25 +14,18 @@ Aspiring mathematician.
 - [X](https://x.com/i_tozer)
 - [SubStack](https://substack.com/@iantozer)
 
-(links soon)
-
 ### Audits
-- [Aragon | VE Governance | Smart Contract Review | Boundary Conditions](link) 
-- [Aragon | VE Governance | Smart Contract Audit #2](link) 
-- [Aragon | VE Governance | Smart Contract Audit](link) 
-- [BerryBlock | Swaptor | Smart Contract Audit](link) 
-- [Coral.li | ERC1155 | Smart Contract Audit](link) - Private
+- [Aragon | VE Governance | Smart Contract Review | Boundary Conditions](https://gist.github.com/i-tozer/699fd773d754ee0c52260f8ebce04c5c) 
+- [Aragon | VE Governance | Smart Contract Audit #2](https://gist.github.com/i-tozer/acdc8af6015c3d6daaf4150c7d799164) (2L)
+- [Aragon | VE Governance | Smart Contract Audit](https://gist.github.com/i-tozer/deff978ab2364e6874733ae419e7ce72) (2H/2M)
+- [BerryBlock | Swaptor | Smart Contract Audit](https://gist.github.com/i-tozer/7efd4c174c0853f1ef19f987ca387741) (1H/1M/1L) 
+- [Coral.li | ERC1155 | Smart Contract Audit] - Private
 
 ### *Competitions
-- [Olas | Description](link) (Findings) | 4th Place
-- [Curves | Description](link) (Findings) | 4th Place
-
-**Total Findings:** XH and XM
-
-### How I work
+- [Olas | Description](https://code4rena.com/audits/2023-12-olas) (1H/1M) | 4th Place
 
 #### Development
-- [Hound](link) | Open Source Project
+- [Hound](https://github.com/scabench-org/hound) | Open Source Project
 - [EHS | Project](link) | ETL Project
 - [Solana Foundation | Grant](link) | Web3 Geography | Details
 - [Aave Grants DAO | Grant](link) | UX Redesign | Details
