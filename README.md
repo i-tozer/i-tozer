@@ -22,7 +22,7 @@ Aspiring mathematician.
 - [Coral.li | ERC1155 | Smart Contract Audit] - Private
 
 ### *Competitions
-- [Olas | Description](https://code4rena.com/audits/2023-12-olas) (1H/1M) | 4th Place
+- [Olas](https://code4rena.com/audits/2023-12-olas) (1H/1M) | 4th Place
 
 #### Development
 - [Hound](https://github.com/scabench-org/hound) | Open Source Project
