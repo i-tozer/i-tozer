@@ -6,7 +6,7 @@
 | | | | |
 | :---: | :---: | :---: | :---: |
 | <img src="assets/clients_and_projects/aragon-ant-logo-full.svg" height="50" alt="Aragon" /> | <img src="assets/clients_and_projects/berryblock.svg" height="50" alt="Berryblock" /> | <img src="assets/clients_and_projects/coral.svg" height="50" alt="Coral" /> | <img src="assets/clients_and_projects/solana_foundation.svg" height="50" alt="Solana Foundation" /> |
-| <img src="assets/clients_and_projects/ehs.svg" height="50" alt="Eleventh House Solutions" /> | <img src="assets/clients_and_projects/aave_grants_dao.svg" height="50" alt="Aave Grants DAO" /> | <img src="assets/clients_and_projects/scabench.svg" height="50" alt="ScaBench" /> | <img src="assets/clients_and_projects/authoritas.svg" height="50" alt="Authoritas" /> |
+| <img src="assets/clients_and_projects/benqi.svg" height="25"  alt="Benqi" /> | <img src="assets/clients_and_projects/aave_grants_dao.svg" height="50" alt="Aave Grants DAO" /> | <img src="assets/clients_and_projects/scabench.svg" height="50" alt="ScaBench" /> | <img src="assets/clients_and_projects/authoritas.svg" height="50" alt="Authoritas" /> |
 
 ### Programming Languages
 Solidity, JavaScript, Python, Rust, Golang, and more.
