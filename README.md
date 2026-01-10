@@ -2,10 +2,13 @@
 
 **Web3 Security & Full Stack Development**
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iantozer)
+**Available for audits, collaborations, and opportunities.**
+
 ### Brands & Projects I have worked with
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/clients_and_projects/aragon-ant-logo-full.svg" height="32" alt="Aragon" /> | <img src="assets/clients_and_projects/berryblock.svg" height="28" alt="Berryblock" /> | <img src="assets/clients_and_projects/coral.svg" height="32" alt="Coral" /> | <img src="assets/clients_and_projects/solana_foundation.svg" height="28" alt="Solana Foundation" /> |
+| <img src="assets/clients_and_projects/aragon-ant-logo-full.svg" height="32" alt="Aragon" /> | <img src="assets/clients_and_projects/berryblock.svg" height="32" alt="Berryblock" /> | <img src="assets/clients_and_projects/coral.svg" height="32" alt="Coral" /> | <img src="assets/clients_and_projects/solana_foundation.svg" height="28" alt="Solana Foundation" /> |
 | <img src="assets/clients_and_projects/benqi.svg" height="25"  alt="Benqi" /> | <img src="assets/clients_and_projects/aave_grants_dao.svg" height="60" alt="Aave Grants DAO" /> | <img src="assets/clients_and_projects/scabench.svg" height="60" alt="ScaBench" /> | <img src="assets/clients_and_projects/authoritas.svg" height="75" alt="Authoritas" /> |
 
 ### Programming Languages
@@ -15,7 +18,7 @@ Aspiring mathematician.
 
 ### Audit Process
 
-> [!TIP]
+> [!NOTE]
 > **My process helps me find vulnerabilities that elite audit firms miss.**
 >
 > Learn about my unique workflow in my [audit process](pages/audit-process.md) page.
@@ -33,16 +36,16 @@ Aspiring mathematician.
 | **BerryBlock** | Swaptor | Audit | 1 High, 1 Med, 1 Low | [Link](https://gist.github.com/i-tozer/7efd4c174c0853f1ef19f987ca387741) |
 | **Coral.li** | ERC1155 | Audit | - | Private |
 
-### Competitions
+### Competition Highlights
 - [Olas (1H/1M) | 4th Place](https://code4rena.com/audits/2023-12-olas)
 - Total: 3H/5M
 
-#### Development
-- [Hound](https://github.com/scabench-org/hound) | Open Source Project
-- [EHS | Project](link) | ETL Project
-- [Solana Foundation | Grant](link) | Web3 Geography | Details
-- [Aave Grants DAO | Grant](link) | UX Redesign | Details
-- [Stakehodler](link) | Founder | DAO Governance Platform | Details
+### Development
+- **[Hound](https://github.com/scabench-org/hound)**: Open Source Project.
+- **[EHS Project](link)**: ETL Project.
+- **[Solana Foundation Grant](link)**: Web3 Geography.
+- **[Aave Grants DAO](link)**: UX Redesign.
+- **[Stakehodler](link)**: Founder & DAO Governance Platform.
 
 ### Personal
 Coming soon.
