@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iantozer)
 **Available for audits, collaborations, and opportunities.**
 
-### Brands & Projects I have worked with
+### Brands & Projects I have worked, collaborated, or contributed to
 | | | | |
 | :---: | :---: | :---: | :---: |
 | <img src="assets/clients_and_projects/aragon-ant-logo-full.svg" height="32" alt="Aragon" /> | <img src="assets/clients_and_projects/berryblock.svg" height="32" alt="Berryblock" /> | <img src="assets/clients_and_projects/coral.svg" height="32" alt="Coral" /> | <img src="assets/clients_and_projects/solana_foundation.svg" height="28" alt="Solana Foundation" /> |
