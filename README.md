@@ -21,7 +21,7 @@ Aspiring mathematician.
 > [!NOTE]
 > **My process helps me find vulnerabilities that elite audit firms miss.**
 >
-> Learn about my unique workflow in my [audit process](pages/audit-process.md) page.
+> Learn about my unique workflow in my [audit process](https://open.substack.com/pub/iantozer/p/smart-contract-audit-process?r=1vk25g&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) page.
 
 ### Socials
 - [X](https://x.com/i_tozer)
